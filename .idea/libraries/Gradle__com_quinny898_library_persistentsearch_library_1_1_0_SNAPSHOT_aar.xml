@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.quinny898.library.persistentsearch:library:1.1.0-SNAPSHOT@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-library-1.1.0-SNAPSHOT.aar/3afd358d1b8796d179e7782af5249138/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-library-1.1.0-SNAPSHOT.aar/36958d70ef62e9ae4593708fdc47b072/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-library-1.1.0-SNAPSHOT.aar/3afd358d1b8796d179e7782af5249138/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-library-1.1.0-SNAPSHOT.aar/3afd358d1b8796d179e7782af5249138/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-library-1.1.0-SNAPSHOT.aar/36958d70ef62e9ae4593708fdc47b072/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-library-1.1.0-SNAPSHOT.aar/36958d70ef62e9ae4593708fdc47b072/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-library-1.1.0-SNAPSHOT.aar/36958d70ef62e9ae4593708fdc47b072/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
